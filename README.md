@@ -15,3 +15,4 @@ The following tutorials helped with the creation:
 |`npm run build:production`|`npm run build`| Builds the app with the production settings. |
 |`npm run build:dev`|`npm run build:development`| Builds the app with the development settings. |
 |`npm run start`| - | Starts the app with the `.env` file. |
+|`npm run eslint`| - | Run ESLint to check the code style. |

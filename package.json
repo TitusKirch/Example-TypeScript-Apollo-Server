@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
-  "private": true,
   "scripts": {
     "build": "npm run build:production",
     "build:dev": "webpack --config webpack.development.js",
     "build:development": "npm run build:dev",
     "build:production": "webpack --config webpack.production.js",
+    "eslint": "./node_modules/eslint/bin/eslint.js src/*",
     "start": "node --require dotenv/config dist/server"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Titus Kirch",
+  "license": "MIT",
   "devDependencies": {
     "@types/webpack-env": "^1.16.0",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
