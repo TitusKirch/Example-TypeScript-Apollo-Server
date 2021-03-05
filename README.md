@@ -1,6 +1,7 @@
 # Example TypeScript Apollo Server
 
 [![GitHub](https://img.shields.io/github/license/TitusKirch/Example-TypeScript-Apollo-Server)](https://github.com/TitusKirch/Example-TypeScript-Apollo-Server/LICENSE)
+[![CI](https://github.com/TitusKirch/Example-TypeScript-Apollo-Server/actions/workflows/ci.yml/badge.svg)](https://github.com/TitusKirch/Example-TypeScript-Apollo-Server/actions/workflows/ci.yml)
 
 A simple example project for Apollo Server in Typescript including ESlinkt and VSC-Config.
 
